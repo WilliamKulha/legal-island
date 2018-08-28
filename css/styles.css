@@ -5,3 +5,43 @@ img {
   height: 500px;
   width: 600px;
 }
+
+body {
+  background-color: #979fab;
+}
+
+h1{
+  text-align: center;
+  font-family: monospace;
+  font-size: 35px;
+  font-weight:bold;
+  font-style: italic;
+  color: #856b72;
+}
+
+h2 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 30px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #856b72;
+}
+
+h3 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 25px;
+  font-weight: lighter;
+  font-style: oblique;
+  color: #856b72;
+}
+
+p {
+  text-align: center;
+  font-family: cursive;
+  font-size: 20px;
+  font-weight: 100;
+  font-style: italic;
+  color: #FFD700;
+}
